@@ -46,8 +46,8 @@ section{
     border: none; 
     padding:20px;
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-around;
+    flex-flow: column wrap;
+    align-items: center;
 }
 #Home_title{
     text-align: center;
