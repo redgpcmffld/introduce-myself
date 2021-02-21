@@ -79,13 +79,6 @@ img{
     height: 100%;
 }
 
-@media(max-width:800px){
-    
-    #Home{
-       flex-flow: column wrap;
-       align-items: center;
-    }
-}
 @media(min-width:650px){
     #small_header{
         display:none;
