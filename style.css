@@ -52,7 +52,6 @@ section{
     text-align: center;
 }
 #Home_section{
-    margin-left:7%;
     text-align: center;
     align-self: center;
     font-size: 15px;
@@ -60,6 +59,7 @@ section{
     margin-top: 70px;
 }
 #picture{
+    margin-left:7%;
     width: 200px;
     height: 250px;
     border: solid white 1px;
